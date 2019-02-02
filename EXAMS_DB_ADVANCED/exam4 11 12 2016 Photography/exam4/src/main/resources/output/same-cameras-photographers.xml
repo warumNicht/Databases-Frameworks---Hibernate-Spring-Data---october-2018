@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<photographers>
+    <photographer name="Delta Tiano" primary-camera="D4">
+        <lenses>
+            <lens>
+                <lens>Tokina 85mm f1.4</lens>
+            </lens>
+        </lenses>
+    </photographer>
+    <photographer name="Lyle Longworth" primary-camera="5D Mk II">
+        <lenses>
+            <lens>
+                <lens>Canon 10mm f3.5</lens>
+            </lens>
+            <lens>
+                <lens>Canon 8mm f2.2</lens>
+            </lens>
+            <lens>
+                <lens>Canon 18mm f3.5</lens>
+            </lens>
+        </lenses>
+    </photographer>
+    <photographer name="Freeda Casimir" primary-camera="D7100">
+        <lenses>
+            <lens>
+                <lens>Tokina 85mm f1.4</lens>
+            </lens>
+            <lens>
+                <lens>Nikon 70mm f2.8</lens>
+            </lens>
+            <lens>
+                <lens>Nikon 100mm f1.8</lens>
+            </lens>
+            <lens>
+                <lens>Nikon 26mm f4.0</lens>
+            </lens>
+        </lenses>
+    </photographer>
+    <photographer name="Dante Ketter" primary-camera="K-30">
+        <lenses>
+            <lens>
+                <lens>Tokina 20mm f2.0</lens>
+            </lens>
+            <lens>
+                <lens>Sigma 14mm f2.0</lens>
+            </lens>
+        </lenses>
+    </photographer>
+    <photographer name="Lajuana Mcclean" primary-camera="D300">
+        <lenses>
+            <lens>
+                <lens>Tokina 135mm f2.8</lens>
+            </lens>
+            <lens>
+                <lens>Nikon 350mm f5.6</lens>
+            </lens>
+            <lens>
+                <lens>Nikon 24mm f4.0</lens>
+            </lens>
+            <lens>
+                <lens>Nikon 40mm f2.0</lens>
+            </lens>
+        </lenses>
+    </photographer>
+    <photographer name="Krystin Lindstedt" primary-camera="D300S">
+        <lenses>
+            <lens>
+                <lens>Nikon 29mm f2.0</lens>
+            </lens>
+            <lens>
+                <lens>Sigma 135mm f4.0</lens>
+            </lens>
+            <lens>
+                <lens>Nikon 24mm f4.0</lens>
+            </lens>
+            <lens>
+                <lens>Sigma 16mm f2.4</lens>
+            </lens>
+        </lenses>
+    </photographer>
+    <photographer name="Jay Stanforth" primary-camera="D5500">
+        <lenses>
+            <lens>
+                <lens>Nikon 18mm f2.8</lens>
+            </lens>
+            <lens>
+                <lens>Nikon 40mm f2.8</lens>
+            </lens>
+        </lenses>
+    </photographer>
+    <photographer name="Tu Aslinger" primary-camera="K110D">
+        <lenses>
+            <lens>
+                <lens>Pentax 135mm f4.0</lens>
+            </lens>
+        </lenses>
+    </photographer>
+    <photographer name="Betsey Oconner" primary-camera="XQ1">
+        <lenses>
+            <lens>
+                <lens>Tokina 200mm f2.8</lens>
+            </lens>
+        </lenses>
+    </photographer>
+    <photographer name="Nam Dinkins" primary-camera="D2X">
+        <lenses>
+            <lens>
+                <lens>Tokina 135mm f2.8</lens>
+            </lens>
+        </lenses>
+    </photographer>
+    <photographer name="Cristopher Brinkerhoff" primary-camera="D600">
+        <lenses>
+            <lens>
+                <lens>Nikon 30mm f2.0</lens>
+            </lens>
+            <lens>
+                <lens>Sigma 40mm f2.4</lens>
+            </lens>
+            <lens>
+                <lens>Sigma 15mm f2.4</lens>
+            </lens>
+        </lenses>
+    </photographer>
+    <photographer name="Kirstin Whidbee" primary-camera="A33">
+        <lenses>
+            <lens>
+                <lens>Sigma 24mm f1.8</lens>
+            </lens>
+        </lenses>
+    </photographer>
+    <photographer name="Heide Plemmons" primary-camera="60D">
+        <lenses>
+            <lens>
+                <lens>Tokina 14mm f2.0</lens>
+            </lens>
+            <lens>
+                <lens>Canon 135mm f1.4</lens>
+            </lens>
+        </lenses>
+    </photographer>
+    <photographer name="Deetta Beausoleil" primary-camera="D300">
+        <lenses>
+            <lens>
+                <lens>Nikon 350mm f5.6</lens>
+            </lens>
+            <lens>
+                <lens>Sigma 8mm f1.4</lens>
+            </lens>
+        </lenses>
+    </photographer>
+    <photographer name="Helena Cahn" primary-camera="D500">
+        <lenses>
+            <lens>
+                <lens>Tokina 135mm f2.8</lens>
+            </lens>
+            <lens>
+                <lens>Sigma 8mm f1.4</lens>
+            </lens>
+        </lenses>
+    </photographer>
+</photographers>

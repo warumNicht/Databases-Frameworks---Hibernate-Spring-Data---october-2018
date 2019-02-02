@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<venues town="Sofia">
+    <venue name="Sand Spring Restaurant" capacity="500">
+        <weddings-count>3</weddings-count>
+    </venue>
+    <venue name="St John the Baptist" capacity="4100">
+        <weddings-count>3</weddings-count>
+    </venue>
+</venues>

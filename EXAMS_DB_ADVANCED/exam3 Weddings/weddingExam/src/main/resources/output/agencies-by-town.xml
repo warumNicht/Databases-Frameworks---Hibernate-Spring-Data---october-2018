@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<towns>
+    <town name="Plovdiv">
+        <agencies>
+            <agency name="Brown Brothers Catering" profit="8671.400">
+                <wedding cash="26643" presents="6">
+                    <bride>Venetta A Gundersen</bride>
+                    <bridegroom>Beverly D Mettler</bridegroom>
+                    <guests>
+                        <guest family="Bridegroom">Gay O Ferdinand</guest>
+                        <guest family="Bridegroom">Mikel X Skowronski</guest>
+                        <guest family="Bridegroom">Mikel X Skowronski</guest>
+                        <guest family="Bridegroom">Serina M Langdon</guest>
+                        <guest family="Bridegroom">Geraldine Y Ploof</guest>
+                        <guest family="Bridegroom">Mia U Stalling</guest>
+                        <guest family="Bridegroom">Herma C Dagostino</guest>
+                        <guest family="Bridegroom">Kellie M Wiltshire</guest>
+                    </guests>
+                </wedding>
+                <wedding cash="16714" presents="12">
+                    <bride>Hedwig Q Coakley</bride>
+                    <bridegroom>Alfred H Dabbs</bridegroom>
+                    <guests>
+                        <guest family="Bride">Julee U Pauley</guest>
+                        <guest family="Bride">Cassidy G Candelaria</guest>
+                        <guest family="Bride">Avis U Benny</guest>
+                        <guest family="Bride">Candi R Nevels</guest>
+                        <guest family="Bridegroom">Tomoko Y Agin</guest>
+                        <guest family="Bride">Lashunda Q Montero</guest>
+                        <guest family="Bridegroom">Farrah W Putney</guest>
+                        <guest family="Bride">Micaela V Dominy</guest>
+                        <guest family="Bridegroom">Rubi U Tena</guest>
+                        <guest family="Bride">Emilio C Burry</guest>
+                        <guest family="Bride">Whitley D Dymond</guest>
+                        <guest family="Bridegroom">Jayme O Cosper</guest>
+                        <guest family="Bridegroom">Contessa R Mizell</guest>
+                        <guest family="Bridegroom">Hermina E Kirkwood</guest>
+                    </guests>
+                </wedding>
+            </agency>
+        </agencies>
+    </town>
+    <town name="Blagoevgrad">
+        <agencies>
+            <agency name="Calluna Events" profit="19927.600">
+                <wedding cash="25400" presents="10">
+                    <bride>Cindi B Duford</bride>
+                    <bridegroom>Bess D Zheng</bridegroom>
+                    <guests>
+                        <guest family="Bridegroom">Dahlia X Sansone</guest>
+                        <guest family="Bride">Jarvis W Janusz</guest>
+                        <guest family="Bridegroom">Elidia Q Dotts</guest>
+                        <guest family="Bride">Verlene V Senior</guest>
+                        <guest family="Bride">Karan H Kenobi</guest>
+                        <guest family="Bridegroom">Karlene D Stroope</guest>
+                        <guest family="Bride">Vicente W Curling</guest>
+                        <guest family="Bridegroom">Jaleesa M Riehle</guest>
+                        <guest family="Bride">Jenni C Primo</guest>
+                        <guest family="Bride">Kitty P Baldridge</guest>
+                        <guest family="Bridegroom">Cherri C Braun</guest>
+                        <guest family="Bridegroom">Whitley D Dymond</guest>
+                        <guest family="Bridegroom">Serina M Langdon</guest>
+                    </guests>
+                </wedding>
+                <wedding cash="36470" presents="10">
+                    <bride>Migdalia J Pray</bride>
+                    <bridegroom>Theda D Hentges</bridegroom>
+                    <guests>
+                        <guest family="Bride">Lecia X Navarette</guest>
+                        <guest family="Bride">Brand R Heitz</guest>
+                        <guest family="Bridegroom">Lang X Grams</guest>
+                        <guest family="Bridegroom">Herma C Dagostino</guest>
+                        <guest family="Bride">Katherin B Rebello</guest>
+                        <guest family="Bridegroom">Zachary O Earnest</guest>
+                        <guest family="Bridegroom">Willene V Tosh</guest>
+                        <guest family="Bride">Karan H Kenobi</guest>
+                        <guest family="Bride">Stewart P Raff</guest>
+                        <guest family="Bridegroom">Nathaniel W Glynn</guest>
+                        <guest family="Bride">Erik P Gochenour</guest>
+                        <guest family="Bridegroom">Luanne W Messerly</guest>
+                        <guest family="Bride">Fredda B Botts</guest>
+                        <guest family="Bride">Valeria L Square</guest>
+                    </guests>
+                </wedding>
+                <wedding cash="37768" presents="7">
+                    <bride>Rachel C Wadlow</bride>
+                    <bridegroom>Stewart P Raff</bridegroom>
+                    <guests>
+                        <guest family="Bride">Tennille S Gartner</guest>
+                        <guest family="Bridegroom">Dorethea H Oboyle</guest>
+                        <guest family="Bride">Tyson C Herzberg</guest>
+                        <guest family="Bridegroom">Myriam W Castaldo</guest>
+                        <guest family="Bridegroom">Shela R Sockwell</guest>
+                        <guest family="Bride">Patrick J Nicolosi</guest>
+                        <guest family="Bride">Torie N Popejoy</guest>
+                        <guest family="Bride">Jocelyn D Campana</guest>
+                        <guest family="Bridegroom">Jonathon Z Kimura</guest>
+                        <guest family="Bridegroom">Shirl F Reck</guest>
+                    </guests>
+                </wedding>
+            </agency>
+        </agencies>
+    </town>
+    <town name="Montana">
+        <agencies>
+            <agency name="Exceptional Events" profit="2195.600">
+                <wedding cash="10861" presents="10">
+                    <bride>Anita F Linden</bride>
+                    <bridegroom>Brenda R Bess</bridegroom>
+                    <guests>
+                        <guest family="Bride">Fredia S Ivers</guest>
+                        <guest family="Bridegroom">Amal A Devivo</guest>
+                        <guest family="Bride">Antonetta S Penfield</guest>
+                        <guest family="Bridegroom">Verlene V Senior</guest>
+                        <guest family="Bridegroom">Christal S Moorhouse</guest>
+                        <guest family="Bride">Karl N Bullins</guest>
+                        <guest family="Bride">Mohammed K Castor</guest>
+                        <guest family="Bride">Jenniffer K Grimshaw</guest>
+                        <guest family="Bridegroom">Keila B Ownby</guest>
+                        <guest family="Bridegroom">Naoma C Jawad</guest>
+                        <guest family="Bridegroom">Katherin B Rebello</guest>
+                        <guest family="Bridegroom">Delm G Weissinger</guest>
+                        <guest family="Bride">Lesley H Lattea</guest>
+                    </guests>
+                </wedding>
+                <wedding cash="117" presents="1">
+                    <bride>Ona K Engram</bride>
+                    <bridegroom>Chang S Wimberley</bridegroom>
+                    <guests>
+                        <guest family="Bridegroom">Keith X Beland</guest>
+                    </guests>
+                </wedding>
+            </agency>
+            <agency name="Festivities Catering &amp; Special Events" profit="12570.600">
+                <wedding cash="7078" presents="5">
+                    <bride>Randa Q Anderton</bride>
+                    <bridegroom>Bonny T Schoch</bridegroom>
+                    <guests>
+                        <guest family="Bridegroom">Lavera U Jessie</guest>
+                        <guest family="Bridegroom">Bess D Zheng</guest>
+                        <guest family="Bridegroom">Lacresha H Kovar</guest>
+                        <guest family="Bride">Tennille S Gartner</guest>
+                        <guest family="Bridegroom">Elidia X Schrecengost</guest>
+                        <guest family="Bride">Suzanne L Wurst</guest>
+                    </guests>
+                </wedding>
+                <wedding cash="55775" presents="14">
+                    <bride>Aleta Z Murtha</bride>
+                    <bridegroom>Marc L Arno</bridegroom>
+                    <guests>
+                        <guest family="Bride">Jenni C Primo</guest>
+                        <guest family="Bride">Raleigh R Hintze</guest>
+                        <guest family="Bride">Alfred H Dabbs</guest>
+                        <guest family="Bride">Zita L Merriweather</guest>
+                        <guest family="Bridegroom">Iesha V Lisk</guest>
+                        <guest family="Bridegroom">Kimberely Q Geren</guest>
+                        <guest family="Bride">Farrah W Putney</guest>
+                        <guest family="Bride">Albertina D Jeter</guest>
+                        <guest family="Bridegroom">Dorethea H Oboyle</guest>
+                        <guest family="Bridegroom">Denyse M Rowser</guest>
+                        <guest family="Bridegroom">Ada W Basham</guest>
+                        <guest family="Bride">Leanne M Alleyne</guest>
+                        <guest family="Bridegroom">Kathrine Q Ditmore</guest>
+                        <guest family="Bride">Albina I Sliter</guest>
+                    </guests>
+                </wedding>
+            </agency>
+            <agency name="Little Bird Celebrations" profit="6113.600">
+                <wedding cash="17470" presents="11">
+                    <bride>Julee U Pauley</bride>
+                    <bridegroom>Jacqueline J Lamoureaux</bridegroom>
+                    <guests>
+                        <guest family="Bridegroom">Bob G Oler</guest>
+                        <guest family="Bride">Jeanie P Sy</guest>
+                        <guest family="Bride">Deidra W Gerardo</guest>
+                        <guest family="Bridegroom">Venetta A Gundersen</guest>
+                        <guest family="Bridegroom">Shemeka N Retherford</guest>
+                        <guest family="Bride">Ada W Basham</guest>
+                        <guest family="Bride">Denese D Bartel</guest>
+                        <guest family="Bridegroom">Hermelinda X Creel</guest>
+                        <guest family="Bridegroom">Venetta P Deitz</guest>
+                        <guest family="Bride">Marquita Q Berrian</guest>
+                        <guest family="Bride">Ellyn A Nold</guest>
+                        <guest family="Bride">Marc L Arno</guest>
+                    </guests>
+                </wedding>
+                <wedding cash="13098" presents="6">
+                    <bride>Anneliese U Braverman</bride>
+                    <bridegroom>Glayds K Alberti</bridegroom>
+                    <guests>
+                        <guest family="Bride">Anita F Linden</guest>
+                        <guest family="Bride">Agnes N Soucie</guest>
+                        <guest family="Bridegroom">Nelia Q Brannon</guest>
+                        <guest family="Bridegroom">Brett R Graffam</guest>
+                        <guest family="Bridegroom">Kathrine Q Ditmore</guest>
+                        <guest family="Bridegroom">Hedwig Q Coakley</guest>
+                    </guests>
+                </wedding>
+            </agency>
+            <agency name="Hannibals Catering &amp; Events" profit="12475.800">
+                <wedding cash="47063" presents="12">
+                    <bride>Lynna Y Child</bride>
+                    <bridegroom>Ariana V Thatcher</bridegroom>
+                    <guests>
+                        <guest family="Bridegroom">Kassie C Epley</guest>
+                        <guest family="Bridegroom">Willette K Grana</guest>
+                        <guest family="Bridegroom">Tatiana V Peeples</guest>
+                        <guest family="Bridegroom">Geraldine Y Ploof</guest>
+                        <guest family="Bride">Jonathon Z Kimura</guest>
+                        <guest family="Bride">Lakesha V Longerbeam</guest>
+                        <guest family="Bride">Verlene V Senior</guest>
+                        <guest family="Bridegroom">Angelina H Daly</guest>
+                        <guest family="Bride">Serina M Langdon</guest>
+                        <guest family="Bride">Carmelo Q Morace</guest>
+                        <guest family="Bridegroom">Zana H Redfearn</guest>
+                        <guest family="Bride">Cris E Foote</guest>
+                        <guest family="Bride">Keila B Ownby</guest>
+                    </guests>
+                </wedding>
+                <wedding cash="15316" presents="6">
+                    <bride>Awilda R Olague</bride>
+                    <bridegroom>Maurine Q Meidinger</bridegroom>
+                    <guests>
+                        <guest family="Bridegroom">Rosalia K Sylvester</guest>
+                        <guest family="Bride">Kimbra B Rook</guest>
+                        <guest family="Bride">Ellyn A Nold</guest>
+                        <guest family="Bride">Dahlia X Sansone</guest>
+                        <guest family="Bride">Hermelinda X Creel</guest>
+                        <guest family="Bride">Chloe R Harter</guest>
+                        <guest family="Bridegroom">Rolland B Holzwarth</guest>
+                        <guest family="Bride">Priscila A Rondon</guest>
+                    </guests>
+                </wedding>
+            </agency>
+        </agencies>
+    </town>
+    <town name="Stara Zagora">
+        <agencies>
+            <agency name="Oh How Charming" profit="6197.200">
+                <wedding cash="16708" presents="8">
+                    <bride>Romona E Stockdale</bride>
+                    <bridegroom>Elana I Ifill</bridegroom>
+                    <guests>
+                        <guest family="Bridegroom">Willene V Tosh</guest>
+                        <guest family="Bride">Portia P Wile</guest>
+                        <guest family="Bridegroom">Aleshia W Brew</guest>
+                        <guest family="Bride">Cherise Q Kinkade</guest>
+                        <guest family="Bridegroom">Delisa L Sunday</guest>
+                        <guest family="Bride">Gil X Olivieri</guest>
+                        <guest family="Bridegroom">Serina M Langdon</guest>
+                        <guest family="Bride">Leilani B Roseborough</guest>
+                    </guests>
+                </wedding>
+                <wedding cash="14278" presents="8">
+                    <bride>Yesenia M Ruddick</bride>
+                    <bridegroom>Paz S Owens</bridegroom>
+                    <guests>
+                        <guest family="Bridegroom">Luigi J Plath</guest>
+                        <guest family="Bride">Hong G Cusack</guest>
+                        <guest family="Bride">Mikel X Skowronski</guest>
+                        <guest family="Bridegroom">Anneliese U Braverman</guest>
+                        <guest family="Bride">Albertina D Jeter</guest>
+                        <guest family="Bride">Cassey D Libby</guest>
+                        <guest family="Bridegroom">Priscila A Rondon</guest>
+                        <guest family="Bride">Elana I Ifill</guest>
+                    </guests>
+                </wedding>
+            </agency>
+        </agencies>
+    </town>
+    <town name="Pernik">
+        <agencies>
+            <agency name="One Sweet Slice" profit="8370.600">
+                <wedding cash="15275" presents="4">
+                    <bride>Ellis S Slaybaugh</bride>
+                    <bridegroom>Blake P Pitre</bridegroom>
+                    <guests>
+                        <guest family="Bride">Elana I Ifill</guest>
+                        <guest family="Bridegroom">Yevette F Phinney</guest>
+                        <guest family="Bride">Fanny O Capone</guest>
+                        <guest family="Bridegroom">Stormy Z Fiorillo</guest>
+                        <guest family="Bride">Ramon W Devens</guest>
+                    </guests>
+                </wedding>
+                <wedding cash="26578" presents="5">
+                    <bride>Rachel C Wadlow</bride>
+                    <bridegroom>Fanny O Capone</bridegroom>
+                    <guests>
+                        <guest family="Bride">Al L Hisey</guest>
+                        <guest family="Bride">Bailey F Mcnamee</guest>
+                        <guest family="Bride">Laquita E Wofford</guest>
+                        <guest family="Bridegroom">Isela B Bono</guest>
+                        <guest family="Bride">Serina M Langdon</guest>
+                        <guest family="Bridegroom">Madlyn X Ogata</guest>
+                    </guests>
+                </wedding>
+            </agency>
+        </agencies>
+    </town>
+</towns>
