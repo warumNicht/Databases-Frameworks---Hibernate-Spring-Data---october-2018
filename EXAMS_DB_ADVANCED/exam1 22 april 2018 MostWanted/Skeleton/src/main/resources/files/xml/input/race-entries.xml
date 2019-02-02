@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<race-entries>
+    <race-entry has-finished="false" finish-time="133.1" car-id="51">
+        <racerName>Clarence Callahan</racerName>
+    </race-entry>
+    <race-entry has-finished="false" finish-time="242.53" car-id="202">
+        <racerName>Clarence Callahan</racerName>
+    </race-entry>
+    <race-entry has-finished="true" finish-time="126.97" car-id="17">
+        <racerName>Clarence Callahan</racerName>
+    </race-entry>
+    <race-entry has-finished="true" finish-time="741.12" car-id="269">
+        <racerName>Max Philpott</racerName>
+    </race-entry>
+    <race-entry has-finished="false" finish-time="822.96" car-id="242">
+        <racerName>Wylie Gareisr</racerName>
+    </race-entry>
+    <race-entry has-finished="true" finish-time="873.36" car-id="124">
+        <racerName>Max Philpott</racerName>
+    </race-entry>
+    <race-entry has-finished="true" finish-time="156.57" car-id="220">
+        <racerName>Murial Jedrzejewicz</racerName>
+    </race-entry>
+    <race-entry has-finished="true" finish-time="282.97" car-id="290">
+        <racerName>Conny Shutte</racerName>
+    </race-entry>
+    <race-entry has-finished="false" finish-time="438.99" car-id="105">
+        <racerName>Seamus Longega</racerName>
+    </race-entry>
+    <race-entry has-finished="false" finish-time="564.11" car-id="161">
+        <racerName>Alexis Paylor</racerName>
+    </race-entry>
+    <race-entry has-finished="true" finish-time="754.6" car-id="138">
+        <racerName>Gard Wolseley</racerName>
+    </race-entry>
+    <race-entry has-finished="false" finish-time="557.56" car-id="270">
+        <racerName>Mortimer Habershaw</racerName>
+    </race-entry>
+    <race-entry has-finished="true" finish-time="855.75" car-id="284">
+        <racerName>Otha Rozenbaum</racerName>
+    </race-entry>
+    <race-entry has-finished="false" finish-time="946.27" car-id="29">
+        <racerName>Mortimer Habershaw</racerName>
+    </race-entry>
+    <race-entry has-finished="true" finish-time="611.57" car-id="122">
+        <racerName>Patsy Tissington</racerName>
+    </race-entry>
+</race-entries>
